@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "알고리즘문제 인프런"
+title:  "inflearn string"
 date:   2022-12-11 14:59:36 +0900
 categories: C++
 ---
